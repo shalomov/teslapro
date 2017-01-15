@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'nk767regular';
+    src: url('../font/9888-webfont.woff2') format('woff2'),
+         url('../font/9888-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
